@@ -5,3 +5,9 @@ flask run
 pip install httpie #Para Simular um Requisições de um cliente
 
 pip install flask-pydantic-spec #Para trabalhar com o swagger
+
+flask routes
+
+export FLASK_DEBUG=1 #para ativar o modo DEBUG no Linux
+
+pip install tinydb
